@@ -13,4 +13,5 @@
 # 🌟 Output :
   - Predict Model who will leave the company / customer churn
   - Logistic Regression has a higher accuracy than other algorithms
-  ![alt text](https://github.com/Zullinira/Customer-Churn/blob/main/Model%20Accuracy.PNG)
+ 
+ ![alt text](https://github.com/Zullinira/Customer-Churn/blob/main/Model%20Accuracy.PNG)
