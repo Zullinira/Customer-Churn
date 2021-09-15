@@ -12,6 +12,7 @@
   
 # 🌟 Output :
   - Predict Model who will leave the company / customer churn
-  - Logistic Regression has a higher accuracy than other algorithms
+  - Random Forest has a higher accuracy than other algorithms
  
- ![alt text](https://github.com/Zullinira/Customer-Churn/blob/main/Model%20Accuracy.PNG)
+ ![Model Accuracy_edit](https://user-images.githubusercontent.com/79033412/133368180-84582e5c-d73b-41bb-afff-5c8c59193c3d.PNG)
+
